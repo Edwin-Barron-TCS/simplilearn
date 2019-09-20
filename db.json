@@ -1,6 +1,7 @@
 {
   "posts": [
     {
+      "id": 1,
       "itemName": "Super Cheap Item",
       "itemPrice": 0.02,
       "description": "It's just the cheapest.",
@@ -9,6 +10,7 @@
       "release": "09/22/1989"
     },
     {
+      "id": 2,
       "itemName": "Kinda Cheap Item",
       "itemPrice": 1.02,
       "description": "It's still pretty cheap...",
@@ -17,6 +19,7 @@
       "release": "01/12/2011"
     },
     {
+      "id": 3,
       "itemName": "Midrange Item",
       "itemPrice": 11.02,
       "description": "It's not THAT expensive...",
@@ -25,6 +28,7 @@
       "release": "08/01/1905"
     },
     {
+      "id": 4,
       "itemName": "THE Item",
       "itemPrice": 110234.03,
       "description": "WAT...",
