@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      itemName: "Super Cheap Item",
+      itemPrice: 0.02,
+      description: "It's just the cheapest.",
+      longdesc:
+        "This is a very cheap item, so cheap in fact, that none is or shall ever be, cheaper.",
+      image: "http://clipart-library.com/images/k8Tx4Byip.png",
+      release: "09/22/1989"
+    },
+    {
+      itemName: "Kinda Cheap Item",
+      itemPrice: 1.02,
+      description: "It's still pretty cheap...",
+      longdesc:
+        "This is an item, that's pretty middling, not very much money, there isn't a lot cheaper.",
+      image: "http://clipart-library.com/images/LTdjLbqAc.png",
+      release: "01/12/2011"
+    },
+    {
+      itemName: "Midrange Item",
+      itemPrice: 11.02,
+      description: "It's not THAT expensive...",
+      longdesc:
+        "This is an item, which, while more expensive than many others, isn't that expensive.",
+      image: "http://clipart-library.com/images/8giej7ecd.png",
+      release: "08/01/1905"
+    },
+    {
+      itemName: "THE Item",
+      itemPrice: 110234.03,
+      description: "WAT...",
+      longdesc: "I... I don't even... WHY IS THIS THING SO EXPENSIVE!?",
+      image: "https://miro.medium.com/max/1050/1*MIcK6DRrlt3mE4J8NPmvLw.jpeg",
+      release: "07/30/2017"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
