@@ -37,6 +37,52 @@
       "release": "07/30/2017"
     }
   ],
+  "quiz": [
+    {
+      "id": 1,
+      "question": "What is your quest?",
+      "answers": [
+        "To seek the holy grail.",
+        "To sleek the holly gale.",
+        "To sip the halls grey ale.",
+        "To find the holy grail."
+      ],
+      "correct": 4
+    },
+    {
+      "id": 2,
+      "question": "What is your favorite color?",
+      "answers": [
+        "Papyawhip",
+        "Yellow, no Blue",
+        "Green",
+        "Blue"
+      ],
+      "correct": 4
+    },
+    {
+      "id": 3,
+      "question": "What is the capitol of assyria?",
+      "answers": [
+        "Assur",
+        "Aseir",
+        "Assyr",
+        "Aasyr"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "What is the maximum Airspeed of an Unlaiden Swallow?",
+      "answers": [
+        "placeholder - will look up later",
+        "placeholder - do you mean african or european?",
+        "correct answer placeholder",
+        "placeholder"
+      ],
+      "correct": 3
+    }
+  ],
   "profile": {
     "name": "Edwin-Barron-TCS"
   }
