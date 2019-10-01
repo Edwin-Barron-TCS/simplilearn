@@ -40,6 +40,7 @@
   "quiz": [
     {
       "id": 1,
+      "key": "quest",
       "question": "What is your quest?",
       "answers": [
         "To seek the holy grail.",
@@ -47,10 +48,11 @@
         "To sip the halls grey ale.",
         "To find the holy grail."
       ],
-      "correct": 4
+      "correct": 1
     },
     {
       "id": 2,
+      "key": "color",
       "question": "What is your favorite color?",
       "answers": [
         "Papyawhip",
@@ -62,7 +64,8 @@
     },
     {
       "id": 3,
-      "question": "What is the capitol of assyria?",
+      "key": "assyria",
+      "question": "What is the capitol of Assyria?",
       "answers": [
         "Assur",
         "Aseir",
@@ -73,6 +76,7 @@
     },
     {
       "id": 4,
+      "key": "swallow",
       "question": "What is the maximum Airspeed of an Unlaiden Swallow?",
       "answers": [
         "placeholder - will look up later",
